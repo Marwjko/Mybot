@@ -1,0 +1,13 @@
+python-telegram-bot==20.7
+reportlab
+pypdf
+arabic-reshaper
+python-bidi
+qrcode
+pillow
+pandas
+openpyxl
+fastapi
+uvicorn
+jinja2
+python-multipart
